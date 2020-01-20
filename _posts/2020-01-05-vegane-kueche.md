@@ -47,9 +47,13 @@ Was Süßes zum Schluss - **Nussmuse**! Erdnussmus ist für mich schon längst e
 Jelly Sandwich nach amerikanischer Art war meine erste Inspiration), aber das Angebot z.B. bei dm
 oder Rossmann ist viel größer. Mandelmus, Cashewmus, Haselnussmus, Kokosmus sind übrigens immer eine gute Geschenkidee.
 
-<img src="https://raw.githubusercontent.com/innotier/TierschutzBeginntZuhause/gh-pages/assets/img/food.png" />
+<img src="https://raw.githubusercontent.com/innotier/TierschutzBeginntZuhause/gh-pages/assets/img/food1.jpg" /> <sup>One-Pot-Curry</sup>
 
-One-Pot-Curry -- -- -- -- -- -- Rote-Bete-Hummus -- -- -- -- -- -- Porridge mit Erdnussmus 
+<img src="https://raw.githubusercontent.com/innotier/TierschutzBeginntZuhause/gh-pages/assets/img/food2.jpg" /> <sup>Rote-Bete-Hummus</sup>
+
+<img src="https://raw.githubusercontent.com/innotier/TierschutzBeginntZuhause/gh-pages/assets/img/food3.jpg" /> <sup>Porridge mit Erdnussmus </sup>
+
+ -- -- -- -- -- --  -- -- -- -- -- -- 
 
 ### Mein Lieblingsrezept: One-Pot-Curry
 
