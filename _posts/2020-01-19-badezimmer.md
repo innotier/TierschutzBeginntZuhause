@@ -27,10 +27,12 @@ Ein weiterer Trick verschiedene Produkte auf ihre Inhaltsstoffe hin zu testen is
 
 Inhaltsstoffe von Produkten ganz einfach mithilfe der Produkt-Scanner-App aufdecken
 
-<img src="https://raw.githubusercontent.com/innotier/TierschutzBeginntZuhause/gh-pages/assets/img/image3.png"/>
+<img src="https://raw.githubusercontent.com/innotier/TierschutzBeginntZuhause/gh-pages/assets/img/image3.png"/><sup>Inhaltsstoffe von Produkten ganz einfach mithilfe der Produkt-Scanner-App aufdecken</sup>
 
 Neugierig? Weitere Infos erhältst du auf der Homepage: <https://www.codecheck.info/so-gehts/mobil>
 
+
+<br/>
 
 ## Welche Alternativen bieten sich sonst noch an?
 
@@ -48,7 +50,8 @@ Für 150ml Handcreme benötigst du:
 - Ein paar Tropfen eines ätherischen Öls, z.B. Lavendelöl
 - Kleines Aufbewahrungsglas, idealerweise mit Schraubverschluss
 
-<img src="https://raw.githubusercontent.com/innotier/TierschutzBeginntZuhause/gh-pages/assets/img/image2.jpg" />
+<img src="https://raw.githubusercontent.com/innotier/TierschutzBeginntZuhause/gh-pages/assets/img/image2.jpg" /><sup>Alle Zutaten, die man für die selbstgemachte Handcreme benötigt – auf einen Blick! Bio-Olivenöl, ätherisches Lavendelöl (Demeter), Bio-Kokosöl, Bio-Kakaobutter und mehrere Aufbewahrungsgläser</sup>
+
 
 Lavendel birgt neben seinen wohltuenden Duft viele gesundheitliche Vorteile. Es wirkt antibakteriell, sowie entzündungshemmend, pflegend und beruhigend. Gerade auch bei trockenen Händen fördert Lavendel die Heilung von leichten Wunden. 
 
