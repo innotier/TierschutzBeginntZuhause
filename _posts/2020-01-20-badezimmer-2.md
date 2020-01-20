@@ -18,6 +18,7 @@ Es geht ja schließlich um Umweltschutz und es gibt mehr Faktoren als der Müll,
 Es geht auch nicht wirklich darum, 0% Müll zu produzieren, es ist ganz normal, dass man aus gesundheitlichen Gründen, wegen der Arbeit oder für ein Hobby irgendwie auf Kunststoff/Plastik zurückgreifen muss. Es geht darum, individuell zu schauen, wie man selber seinen Müll auf ein Minimum reduzieren kann. Denn die Welt braucht nicht eine Handvoll „perfekte“ Zero-Wastler, sondern viele Menschen, die ihr Bestes geben. 
 
 ## Mundpflege 
+
 **Bambuszahnbürste** – Bambus ist nicht nur ein veganes, nachhaltiges und somit auch umweltfreundliches Naturprodukt, zusätzlich hat er auch eine antibakterielle Wirkung, wodurch die Ausbreitung von Keimen auf der Zahnbürste unterbunden wird. 
 
 **Zahnputzholz** – ist wohl etwas gewöhnungsbedürftiger, jedoch hat es den Vorteil, dass es ganz ohne Zahnpasta auskommt. Es besteht aus Zweigen des Miswakbaumes, welcher wichtige Inhaltstoffe für die Zahnhygiene beinhaltet. Zum Benutzen wird zuerst das Ende weichgekaut, danach kann man mit dem weichen Ende seine Zähne und Zunge putzen. Das Ende wird ca. alle 14 Tage abgeschnitten und das frische Ende wieder weichgekaut.

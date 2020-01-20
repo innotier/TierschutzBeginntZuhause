@@ -4,7 +4,7 @@ title: "Tierschutz beginnt … im BADEZIMMER "
 author: ""
 categories: badezimmer
 tags: [Naturkosmetik, DIY, Handcreme, PETA, CodeCheck]
-image: image2.jpg
+image: photo-of-mirrors-in-bathroom-2507016.jpg
 ---
 
 
@@ -27,7 +27,7 @@ Ein weiterer Trick verschiedene Produkte auf ihre Inhaltsstoffe hin zu testen is
 
 Inhaltsstoffe von Produkten ganz einfach mithilfe der Produkt-Scanner-App aufdecken
 
-![](/assets/img/image3.png)
+<img src="https://raw.githubusercontent.com/innotier/TierschutzBeginntZuhause/gh-pages/assets/img/image3.png"/>
 
 Neugierig? Weitere Infos erhältst du auf der Homepage: <https://www.codecheck.info/so-gehts/mobil>
 
@@ -48,7 +48,7 @@ Für 150ml Handcreme benötigst du:
 - Ein paar Tropfen eines ätherischen Öls, z.B. Lavendelöl
 - Kleines Aufbewahrungsglas, idealerweise mit Schraubverschluss
 
-![](/assets/img/image2.jpg)
+<img src="https://raw.githubusercontent.com/innotier/TierschutzBeginntZuhause/gh-pages/assets/img/image2.jpg" />
 
 Lavendel birgt neben seinen wohltuenden Duft viele gesundheitliche Vorteile. Es wirkt antibakteriell, sowie entzündungshemmend, pflegend und beruhigend. Gerade auch bei trockenen Händen fördert Lavendel die Heilung von leichten Wunden. 
 
