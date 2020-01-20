@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tierschutz beginnt… in der Küche"
-author: "Magdalena Bortel"
+author: "Magdalena"
 categories: kueche
 tags: [vegan, essen, pflanzenmilch, brotaufstrich, curry]
 image: vegetables.jpg

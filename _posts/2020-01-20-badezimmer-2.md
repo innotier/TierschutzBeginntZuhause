@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zero Waste"
-author: ""
+author: "Julia"
 categories: badezimmer
 tags: [Naturkosmetik, DIY, Handcreme, PETA, CodeCheck]
 image: assorted-plastic-bottles-802221.jpg

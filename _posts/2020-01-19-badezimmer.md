@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tierschutz beginnt … im BADEZIMMER "
-author: ""
+author: "Gina"
 categories: badezimmer
 tags: [Naturkosmetik, DIY, Handcreme, PETA, CodeCheck]
 image: photo-of-mirrors-in-bathroom-2507016.jpg
