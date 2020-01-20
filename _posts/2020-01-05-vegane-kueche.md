@@ -13,7 +13,7 @@ Vegan zu essen wird zunehmend einfacher. Immer mehr Supermärkte bieten pflanzli
 
 Pflanzlichen Alternativen zur Milch sorgen für mehr Abwechslung in der Küche.
 
-Mein persönlicher Favorit ist Hafermilch, die sogar selbst zu Hause vorbereitet werden kann: <https://www.essen-und-trinken.de/hafer/89556-rtkl-hafermilch-selber-machen. Auch in Cafés bestelle ich immer Cappucino mit Hafermilchschaum.> Auch in Cafés bestelle ich immer Cappucino mit Hafermilchschaum.
+Mein persönlicher Favorit ist Hafermilch, die sogar selbst zu Hause vorbereitet werden kann: <https://www.essen-und-trinken.de/hafer/89556-rtkl-hafermilch-selber-machen>. Auch in Cafés bestelle ich immer Cappucino mit Hafermilchschaum.
 
 **Sojamilch** ist eine sehr gute Proteinquelle und ähnelt in der Konsistenz der Kuhmilch. Pure Sojamilch erinnert viele leider an Bohnen, aber in Haferbrei oder bei Backen schmeckt man das nicht heraus. 
 
@@ -41,7 +41,7 @@ kinderleicht selber machen.
 Italienische Küche hat immer die Antwort und wenn es um die Alternative zu Butter geht, lautet sie
 **Pesto**. Es schmeckt nicht nur zu Pasta, sondern auch auf Brot. Die Variationen aus nativem Olivenöl
 und Kräutern wie Basilikum oder Petersilie, aber auch Nüssen, Kernen und Gemüsen sind einfach
-unzählig. Lass dich inspierieren: <http://vegan-und-lecker.de/2013/06/12/pesto-trapanese-mitcashew-parmesan/>!
+unzählig. Lass dich inspierieren: <http://vegan-und-lecker.de/2013/06/12/pesto-trapanese-mit-cashew-parmesan/>!
 
 Was Süßes zum Schluss - **Nussmuse**! Erdnussmus ist für mich schon längst ein Klassiker (Peanut Butter
 Jelly Sandwich nach amerikanischer Art war meine erste Inspiration), aber das Angebot z.B. bei dm

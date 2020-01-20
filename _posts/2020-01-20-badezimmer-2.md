@@ -4,7 +4,7 @@ title: "Zero Waste"
 author: "Julia"
 categories: badezimmer
 tags: [Naturkosmetik, DIY, Handcreme, PETA, CodeCheck]
-image: assorted-plastic-bottles-802221.jpg
+image: IMG-20200120-WA0009.jpg
 ---
 
 ## Bewusster Leben
@@ -56,3 +56,15 @@ Eine Frau verbraucht in ihrem Leben durchschnittlich zwischen 14.000 und 17.000 
 **Waschbare Abschminkpads** – bestehen oft aus Bambus und Baumwolle und sind somit nicht nur vegan, sondern auch fusselfrei. Sie können ganz einfach in der Waschmaschine gewaschen werden und somit unzählige Male wiederverwendet werden. Wenn sie dann doch irgendwann durch sind, sind sie auch noch biologisch abbaubar. Wer Geld sparen möchte, kann auch aus alten T-Shirts Abschminkpads selber machen. 
 
 **Makeup Remover** – hier könnt Ihr einfach ein pflanzliches Öl benutzen, z.B. Kokosöl oder Jojobaöl. Einfach eine Tasse Öl mit einer Tasse abgekochtem Wasser mischen und gut schütteln. 
+
+
+## Toilette
+
+**Recyceltes Toilettenpapier** – ist wirklich keine Umstellung und laut „Greenpeace“ werden
+hier bis zu 60% weniger Energie und bis zu 70% weniger Wasser benötigt als für die
+Herstellung von unrecyceltem Toilettenpapier.
+
+**Po-Dusche** – ist, wie der Name schon sagt, eine Art Minidusche für nach dem Toilettengang.
+Es ist eine sehr schonende, gründlichere und umweltfreundlichere Methode, da man viel
+weniger Toilettenpapier braucht. Denn weltweit werden 270.00 Bäume pro Tag gefällt, nur
+für Toilettenpapier und Co.
