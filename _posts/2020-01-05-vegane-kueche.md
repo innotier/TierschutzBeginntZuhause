@@ -53,8 +53,6 @@ oder Rossmann ist viel größer. Mandelmus, Cashewmus, Haselnussmus, Kokosmus si
 
 <img src="https://raw.githubusercontent.com/innotier/TierschutzBeginntZuhause/gh-pages/assets/img/food3.jpg" /> <sup>Porridge mit Erdnussmus </sup>
 
- -- -- -- -- -- --  -- -- -- -- -- -- 
-
 ### Mein Lieblingsrezept: One-Pot-Curry
 
 **Zutaten**
